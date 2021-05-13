@@ -39,6 +39,7 @@ const {ciudad, pais} = busqueda
       
     }
     consultarAPI()
+    // eslint-disable-next-line
   }, [consultar]);
 
   
